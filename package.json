@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Codersin/codersin#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "slackin": "^0.13.0"
   }
 }
